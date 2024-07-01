@@ -138,3 +138,5 @@ incrementScore = num => {
 }
 
 startGame();
+
+// <!-- Comentarios x para actualizar cambios-->
